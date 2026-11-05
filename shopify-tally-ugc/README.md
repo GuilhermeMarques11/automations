@@ -21,5 +21,3 @@ Desenvolvimento de uma automação via **Make.com**, que escuta novos envios de 
 ## Melhorias previstas
 - Permitir a equipe aprovar ou não os novos posts por e-mail, sem precisar acessar o Shopify.
 
-
-[ Tally Forms ] ──(Webhook)──► [ Make.com ] ──(REST API)──► [ Shopify Blog (Draft) ]
